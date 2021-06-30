@@ -1,1 +1,3 @@
 # MyFirstRepo
+
+Hey Github, I'm Maximilian Malone.  4 years as a system administrator and have never needed to learn how to use git but I figure it can't hurt to just learn it in case I ever do need the knowledge!  I like reading a lot, paragliding, skiing, biking, hiking and the ubiquitously loved-by-all travel.  I haven't actually done any of those things because I am in the Navy Reserves, work too much, WANT to finish school (but not enough to actually finish school) and am running my rentals.  I also love me some Ethereum and my #1 language to learn would probably be solidity.  Maybe I will read this one day and laugh.  Anyway!  Hi!  Hello!  Hope all is well with any fine folks who do actually read this (unlikely).
